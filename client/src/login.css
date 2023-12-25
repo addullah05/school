@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(./pexels-eberhard-grossgasteiger-730981.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 90%;
+}
+
+.main-container{
+   
+}
+
+.main-container form{
+    padding:50px;
+    border-radius: 8px  ;
+    
+}
+
+.main-container form label h3{
+    color:wheat
+}
+
+.main-container form .sub input{
+    margin-top: 20px;
+    color:black;
+    background-color:#F1C40F;
+    padding: 4px;
+    border-radius: 5px;
+}
+
+.main-container form h1{
+    color:wheat
+}
+
+
